@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preetpalsinghspat
 - 👀 I’m interested in data science
-- 🌱 I’m leanring everyday about data science and the new technologies
+- 🌱 I’m learning everyday about data science and new technologies
 - 💞️ I’m looking for working in teams to do some good projects
 - 📫 How to reach me ign-preetpal.singh.1
 
